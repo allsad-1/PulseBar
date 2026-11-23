@@ -1,0 +1,6 @@
+/build/
+/dist/
+/.vs/
+/vendor/
+/PulseBar*.exe
+/PulseBar-github-source.zip
